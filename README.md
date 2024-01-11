@@ -22,9 +22,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SQ2MTG.SQ2MTG&"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/SQ2MTG/SQ2MTG/output/snake.svg" alt="Snake animation" />
 
 ###
 

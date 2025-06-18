@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i0.wp.com/sp2gdz.pl/wp-content/uploads/2023/10/standard-mini-e1696439558996.png"  />
-</div>
+
 
 ###
 

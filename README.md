@@ -1,75 +1,205 @@
+<div align="center">
 
+<h1>Błażej / SQ2MTG</h1>
 
-###
+<h3>Electronics Engineer • RF Enthusiast • AI & Embedded Systems Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Ham+Radio+Operator+since+2008;Embedded+%26+RF+Systems+Developer;Python+%7C+C+%7C+Linux+%7C+SDR;APRS+%7C+Telemetry+%7C+Automation;AI+%26+Speech+Systems+Enthusiast" />
+
+</div>
+
+<hr/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/blazejtrawczynski/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sq2mtg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/SQ2MTG" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/blazejtrawczynski/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sq2mtg/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/SQ2MTG" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.qrz.com/db/SQ2MTG" target="_blank">
+  <img src="https://img.shields.io/badge/QRZ.com-1F6FEB?style=for-the-badge&logo=radio&logoColor=white"/>
+</a>
+
 </div>
 
-###
+<hr/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SQ2MTG.SQ2MTG&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SQ2MTG.SQ2MTG"/>
 </div>
 
+<hr/>
 
-###
+<h2>👨‍💻 About Me</h2>
 
-<h1 align="center">hey there 👋</h1>
+<pre>
+Name:        Błażej 
+Callsign:    SQ2MTG
+Location:    Poland
+Profession:  Electronics & Automation Engineer
+Since:       Licensed Ham Radio Operator since 2008
+Focus:       RF systems, telemetry, SDR, Linux infrastructure, AI systems
+</pre>
 
-###
+<p>
+I build and maintain projects related to:
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<ul>
+  <li>📡 Amateur Radio & APRS infrastructure</li>
+  <li>🌦️ Weather telemetry and early warning systems</li>
+  <li>📶 SDR / RF signal analysis on ISM bands</li>
+  <li>🛰️ Satellite & telemetry integrations</li>
+  <li>🤖 AI-powered voice and speech systems</li>
+  <li>🐧 Linux servers, Docker and automation</li>
+  <li>🔌 Embedded systems (Arduino / ESP / Raspberry Pi)</li>
+  <li>📊 MQTT, Grafana and real-time monitoring systems</li>
+</ul>
 
-###
+<p>Currently developing:</p>
 
-<p align="left">My name is Błażej (Blaise)<br>Ham radio operator since 2008<br><br>- 🔭 I work as an Automation Engineer<br>- 📚 I'm currently learning C and Python</p>
+<ul>
+  <li><b>ASPWO v3</b> — Automatic Early Warning Weather Station</li>
+  <li>APRS telemetry and visualization systems</li>
+  <li>AI speech synthesis and TTS automation</li>
+  <li>SDR telemetry collection and analytics pipelines</li>
+</ul>
 
-###
+<hr/>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h2>🛠️ Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SQ2MTG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SQ2MTG&" height="150" alt="activity-graph graph"  />
+
+<!-- Core languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="42"/>
+<img width="20"/>
+
+<!-- Linux / infra -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42"/>
+<img width="20"/>
+
+<!-- Containers / DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+<img width="20"/>
+
+<!-- Embedded / RF -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="42"/>
+<img width="20"/>
+
+<!-- Data / monitoring -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="42"/>
+<img width="20"/>
+
+<!-- Web / backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42"/>
+<img width="20"/>
+
+<!-- Web / tooling -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+<img width="10"/>
+
+<!-- AI / ML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
+<img width="20"/>
+
+<!-- Misc / telemetry ecosystem -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="42"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42"/>
+
 </div>
 
-###
+<hr/>
+
+<h2>📡 Radio & RF Interests</h2>
+
+<ul>
+  <li>APRS / APRS-IS infrastructure</li>
+  <li>SDR (RTL-SDR / telemetry decoding)</li>
+  <li>433 MHz ISM analysis</li>
+  <li>Weather telemetry systems</li>
+  <li>MQTT data pipelines</li>
+  <li>KISS / AX.25 integrations</li>
+  <li>Embedded RF systems</li>
+  <li>Satellite tracking systems</li>
+  <li>Voice synthesis for radio automation</li>
+</ul>
+
+<hr/>
+
+<h2>📈 GitHub Statistics</h2>
+
+<div align="center">
+
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=SQ2MTG&theme=dark)]
+
+</div>
+
+<hr/>
+
+<h2>🔥 Activity Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SQ2MTG&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<hr/>
+<hr/>
+
+<div align="center">
+  <h3>Thanks for visiting my profile 📻</h3>
+</div>

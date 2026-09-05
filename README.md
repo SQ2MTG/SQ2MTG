@@ -34,168 +34,176 @@
 
 </div>
 
-<h2>👨‍💻 About Me</h2>
+## 👋 About Me
 
-<pre>
-Name:        Błażej 
+```text
+Name:        Błażej
 Callsign:    SQ2MTG
 Location:    Poland
-Profession:  Electronics & Automation Engineer
-Since:       Licensed Ham Radio Operator since 2008
-Focus:       RF systems, telemetry, SDR, Linux infrastructure, AI systems
-</pre>
+Profession:  Electronics/Automation + AI/ML Engineer
+Focus:       RF · SDR · Embedded · Linux · Telemetry · Automation · AI
+```
 
-<p>
-I build and maintain projects related to:
+## 🚀 What I Build
+
+### 📡 RF & Radio
+
+- APRS / APRS-IS infrastructure
+- AX.25 / KISS systems
+- LoRa / LoRa APRS
+- Meshtastic
+- SDR telemetry
+- RF signal analysis
+- 433 MHz ISM monitoring
+- Satellite tracking and telemetry
+- Amateur Radio infrastructure
+
+### 🔌 Embedded & Electronics
+
+- ESP8266 / ESP32
+- Arduino
+- Raspberry Pi
+- Sensors and measurement systems
+- RF modules
+- GPIO / I²C / SPI / UART
+- Custom electronics
+- IoT devices
+
+### 📊 Telemetry & IoT
+
+- MQTT / Mosquitto
+- Weather telemetry
+- Sensor networks
+- RTL_433
+- Real-time data pipelines
+- Environmental monitoring
+- Early warning systems
+- Data visualization
+
+### 🤖 AI & Voice
+
+- Local LLM inference
+- AI-powered automation
+- Speech recognition
+- Text-to-Speech
+- Voice assistants
+- TTS pipelines
+- Wyoming
+- openWakeWord
+- VAD
+- PyTorch / TensorFlow
+- Hugging Face
+
+### 🐧 Linux & Infrastructure
+
+- Linux servers
+- Docker / Podman
+- Kubernetes
+- Proxmox
+- VMware ESXi
+- Networking
+- VPN infrastructure
+- Automation
+- Ansible
+- Monitoring and observability
+
+---
+
+# 🛠️ Technical Stack
+
+## 💻 Programming
+
+`Python` `C` `C++` `Go` `Bash` `PHP` `JavaScript`
+
+## 🤖 AI / Machine Learning
+
+`PyTorch` `TensorFlow` `Hugging Face` `Scikit-learn`
+
+`NumPy` `Pandas` `FAISS` `Stable Diffusion` `CivitAI`
+
+## 🐧 Linux / DevOps
+
+`Linux` `Debian` `Ubuntu` `Alpine Linux`
+
+`Docker` `Podman` `Kubernetes` `Portainer`
+
+`Ansible` `Jenkins` `Git` `GitHub` `GitLab`
+
+`Proxmox` `VMware ESXi` `VirtualBox`
+
+## 🌐 Networking
+
+`TCP/IP` `DHCP` `DNS` `NAT` `VLAN`
+
+`SNMP` `ICMP` `NTP`
+
+`WireGuard` `OpenVPN` `ZeroTier`
+
+`MikroTik` `Ubiquiti` `Cisco` `OpenWrt`
+
+## 🔌 Embedded
+
+`ESP8266` `ESP32` `Arduino` `Raspberry Pi`
+
+`GPIO` `I²C` `SPI` `UART`
+
+`LoRa` `RF Modules` `Sensors`
+
+## 📡 Radio / RF
+
+`APRS` `APRS-IS` `AX.25` `KISS` `APRX` `Direwolf`
+
+`RTL-SDR` `RTL_433`
+
+`LoRa` `LoRa APRS` `Meshtastic`
+
+`433 MHz ISM` `RF Telemetry`
+
+`Satellite Tracking`
+
+## 📊 Monitoring & Data
+
+`Grafana` `Prometheus` `Zabbix`
+
+`InfluxDB` `PostgreSQL` `MySQL` `SQLite`
+
+`Elasticsearch` `Logstash` `syslog-ng`
+
+`MQTT` `Mosquitto`
+
+## 🏠 Automation & Voice
+
+`Home Assistant` `Wyoming`
+
+`openWakeWord` `VAD` `PulseAudio`
+
+`STT` `TTS` `LLM`
+
+`MQTT Automation`
+
+## ☁️ Cloud & Infrastructure
+
+`AWS` `Google Cloud`
+
+`Nginx` `FastAPI` `Flask`
+
+`REST APIs` `SMB/CIFS` `NAS`
+
+`rclone` `OneDrive`
+
+---
+
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=SQ2MTG&theme=dark"/>
 </p>
 
-<ul>
-  <li>📡 Amateur Radio & APRS infrastructure</li>
-  <li>🌦️ Weather telemetry and early warning systems</li>
-  <li>📶 SDR / RF signal analysis on ISM bands</li>
-  <li>🛰️ Satellite & telemetry integrations</li>
-  <li>🤖 AI-powered voice and speech systems</li>
-  <li>🐧 Linux servers, Docker and automation</li>
-  <li>🔌 Embedded systems (Arduino / ESP / Raspberry Pi)</li>
-  <li>📊 MQTT, Grafana and real-time monitoring systems</li>
-</ul>
+---
 
-<p>Currently developing:</p>
-
-<ul>
-  <li><b>ASPWO v3</b> — Automatic Early Warning Weather Station</li>
-  <li>APRS telemetry and visualization systems</li>
-  <li>AI speech synthesis and TTS automation</li>
-  <li>SDR telemetry collection and analytics pipelines</li>
-</ul>
-
-<hr/>
-
-<h2>🛠️ Technologies & Tools</h2>
-
-<div align="center">
-
-<!-- Core languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="42"/>
-<img width="20"/>
-
-<!-- Linux / infra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42"/>
-<img width="20"/>
-
-<!-- Containers / DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
-<img width="20"/>
-
-<!-- Embedded / RF -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="42"/>
-<img width="20"/>
-
-<!-- Data / monitoring -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="42"/>
-<img width="20"/>
-
-<!-- Web / backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42"/>
-<img width="20"/>
-
-<!-- Web / tooling -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
-<img width="10"/>
-
-<!-- AI / ML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
-<img width="20"/>
-
-<!-- Misc / telemetry ecosystem -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="42"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42"/>
-
-</div>
-
-<hr/>
-
-<h2>📡 Radio & RF Interests</h2>
-
-<ul>
-  <li>APRS / APRS-IS infrastructure</li>
-  <li>SDR (RTL-SDR / telemetry decoding)</li>
-  <li>433 MHz ISM analysis</li>
-  <li>Weather telemetry systems</li>
-  <li>MQTT data pipelines</li>
-  <li>KISS / AX.25 integrations</li>
-  <li>Embedded RF systems</li>
-  <li>Satellite tracking systems</li>
-  <li>Voice synthesis for radio automation</li>
-</ul>
-
-<hr/>
-
-<h2>📈 GitHub Statistics</h2>
-
-<div align="center">
-
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=SQ2MTG&theme=dark)]
-
-</div>
-
-<hr/>
-
-<h2>🔥 Activity Graph</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SQ2MTG&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<hr/>
-<hr/>
-
-<div align="center">
-  <h3>Thanks for visiting my profile 📻</h3>
-</div>
+<p align="center">
+  <b>73 de SQ2MTG</b>
+  <br>
+  <sub>Electronics · RF · SDR · Embedded · Linux · Automation · AI</sub>
+</p>

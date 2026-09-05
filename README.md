@@ -82,17 +82,19 @@ Focus:       RF · SDR · Embedded · Linux · Telemetry · Automation · AI
 
 ### 🤖 AI & Voice
 
-- Local LLM inference
-- AI-powered automation
-- Speech recognition
-- Text-to-Speech
-- Voice assistants
-- TTS pipelines
-- Wyoming
-- openWakeWord
-- VAD
-- PyTorch / TensorFlow
-- Hugging Face
+- Local LLM deployment
+- Ollama
+- LLM inference and serving
+- GPU-accelerated AI inference
+- RAG / Retrieval-Augmented Generation
+- Embeddings and vector search
+- AI agents
+- Whisper
+- Speech-to-Text (STT)
+- Voice Activity Detection (VAD)
+- Local AI models
+- Remote AI model servers
+- Distributed AI systems
 
 ### 🐧 Linux & Infrastructure
 
@@ -117,9 +119,15 @@ Focus:       RF · SDR · Embedded · Linux · Telemetry · Automation · AI
 
 ## 🤖 AI / Machine Learning
 
-`PyTorch` `TensorFlow` `Hugging Face` `Scikit-learn`
+`PyTorch` `TensorFlow` `Hugging Face` `Transformers`
+`Scikit-learn` `NumPy` `Pandas` `FAISS`
 
-`NumPy` `Pandas` `FAISS` `Stable Diffusion` `CivitAI`
+`Ollama` `LLM` `Local LLM` `LLM Inference`
+`RAG` `Embeddings` `Vector Search` `AI Agents`
+
+`Whisper` `STT` `TTS` `VAD` `openWakeWord`
+
+`Stable Diffusion` `CivitAI`
 
 ## 🐧 Linux / DevOps
 
@@ -155,7 +163,7 @@ Focus:       RF · SDR · Embedded · Linux · Telemetry · Automation · AI
 
 `RTL-SDR` `RTL_433`
 
-`LoRa` `LoRa APRS` `Meshtastic`
+`LoRa` `LoRa APRS` `Meshtastic` `MeshCore`
 
 `433 MHz ISM` `RF Telemetry`
 

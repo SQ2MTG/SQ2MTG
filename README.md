@@ -1,14 +1,11 @@
 <div align="center">
 
-<h1>Błażej / SQ2MTG</h1>
+<h1>Błażej SQ2MTG</h1>
 
-<h3>Electronics Engineer • RF Enthusiast • AI & Embedded Systems Developer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Ham+Radio+Operator+since+2008;Embedded+%26+RF+Systems+Developer;Python+%7C+C+%7C+Linux+%7C+SDR;APRS+%7C+Telemetry+%7C+Automation;AI+%26+Speech+Systems+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Ham+Radio+Operator+since+2008;Embedded+%26+RF+Systems+Developer;AI/ML+Developer" />
 
 </div>
 
-<hr/>
 
 <div align="center">
 
@@ -27,16 +24,15 @@
 <a href="https://www.qrz.com/db/SQ2MTG" target="_blank">
   <img src="https://img.shields.io/badge/QRZ.com-1F6FEB?style=for-the-badge&logo=radio&logoColor=white"/>
 </a>
+<br>
+<br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SQ2MTG.SQ2MTG"/>
 
 </div>
-
-<hr/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SQ2MTG.SQ2MTG"/>
-</div>
 
-<hr/>
+</div>
 
 <h2>👨‍💻 About Me</h2>
 

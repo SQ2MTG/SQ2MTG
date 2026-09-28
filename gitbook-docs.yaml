@@ -1,12 +1,4 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Błażej SQ2MTG
-  structure:
-    - type: space
-      key: sq2mtg
-      title: Błażej SQ2MTG
-      path: sq2mtg
-      default: true
-      content:
-        directory: ./
-        language: pl
+  structure: []

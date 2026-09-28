@@ -1,6 +1,4 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-version: 1
-
 site:
   title: Błażej SQ2MTG
   structure:
@@ -11,3 +9,4 @@ site:
       default: true
       content:
         directory: ./
+        language: pl
